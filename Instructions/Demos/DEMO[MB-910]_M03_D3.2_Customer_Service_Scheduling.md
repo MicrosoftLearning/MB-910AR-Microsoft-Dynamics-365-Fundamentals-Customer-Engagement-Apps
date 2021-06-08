@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'عرض توضيحي: جدولة خدمة العملاء'
     module: 'الوحدة 3: التعرف على أساسيات Dynamics 365 Customer Service'
