@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'المعمل 2.2: إنشاء فرصة وإدارتها في Dynamics 365 Sales'
     module: 'الوحدة 2: التعرف على أساسيات Dynamics 365 Sales'
