@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'عرض توضيحي: العمل مع Dynamics 365 Project Operations'
     module: 'الوحدة 5: تعرف على أساسيات Dynamics 365 Project Operations'
