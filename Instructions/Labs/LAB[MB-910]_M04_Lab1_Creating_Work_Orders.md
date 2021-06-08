@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'المعمل 4.1: إنشاء أوامر العمل في Dynamics 365 Field Service'
     module: 'الوحدة 4: التعرف على أساسيات Dynamics 365 Field Service'
