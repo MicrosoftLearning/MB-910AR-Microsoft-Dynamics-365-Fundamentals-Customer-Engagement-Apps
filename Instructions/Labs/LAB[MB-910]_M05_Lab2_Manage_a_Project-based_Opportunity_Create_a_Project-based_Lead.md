@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'المعمل 5.2: إدارة فرصة معتمدة على المشروع'
     module: 'الوحدة 5: تعرف على أساسيات Dynamics 365 Project Operations'
