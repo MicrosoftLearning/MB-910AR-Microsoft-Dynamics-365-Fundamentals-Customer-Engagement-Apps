@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'المعمل 3.1: إنشاء مقالة معرفية ونشرها في Dynamics 365 Customer Service'
     module: 'الوحدة 3: التعرف على أساسيات Dynamics 365 Customer Service'
