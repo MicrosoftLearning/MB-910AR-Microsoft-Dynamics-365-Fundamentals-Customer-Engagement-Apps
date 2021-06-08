@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'المعمل 3.2: إنشاء الحالات وإدارتها في Dynamics 365 Customer Service'
     module: 'الوحدة 3: التعرف على أساسيات Dynamics 365 Customer Service'
