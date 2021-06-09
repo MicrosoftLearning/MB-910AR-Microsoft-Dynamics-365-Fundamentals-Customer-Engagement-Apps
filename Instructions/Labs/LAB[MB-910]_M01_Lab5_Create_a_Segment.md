@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'المعمل 1.5: إنشاء قطاع في Dynamics 365 Marketing'
     module: 'الوحدة 1: التعرف على أساسيات Dynamics 365 Marketing'

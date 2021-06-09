@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'عرض توضيحي: العمل مع Dynamics 365 Marketing'
     module: 'الوحدة 1: التعرف على أساسيات Dynamics 365 Marketing'

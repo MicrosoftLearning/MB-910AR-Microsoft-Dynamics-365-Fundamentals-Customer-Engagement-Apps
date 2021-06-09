@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'عرض توضيحي: LinkedIn Sales Navigator'
     module: 'الوحدة 2: التعرف على أساسيات Dynamics 365 Sales'

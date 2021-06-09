@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'عرض توضيحي: إدارة الأصول وConnected Field Service'
     module: 'الوحدة 4: التعرف على أساسيات Dynamics 365 Customer Service'

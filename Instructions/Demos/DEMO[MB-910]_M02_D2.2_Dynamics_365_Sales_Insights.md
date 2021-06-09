@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'عرض توضيحي: Dynamics 365 Sales Insights'
     module: 'الوحدة 2: التعرف على أساسيات Dynamics 365 Sales'

@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'عرض توضيحي: العمل مع Dynamics 365 Sales'
     module: 'الوحدة 2: التعرف على أساسيات Dynamics 365 Sales'

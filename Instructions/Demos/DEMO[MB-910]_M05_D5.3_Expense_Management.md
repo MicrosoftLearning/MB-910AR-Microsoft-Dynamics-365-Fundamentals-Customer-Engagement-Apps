@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'عرض توضيحي: إدارة المصروفات'
     module: 'الوحدة 5: تعرف على أساسيات Dynamics 365 Project Operations'

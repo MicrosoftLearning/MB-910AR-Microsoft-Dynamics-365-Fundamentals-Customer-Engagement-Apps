@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'المعمل 5.3: معمل مشروع التخرّج Dynamics 365 Project Operations'
     module: 'الوحدة 5: تعرف على أساسيات Dynamics 365 Project Operations'
