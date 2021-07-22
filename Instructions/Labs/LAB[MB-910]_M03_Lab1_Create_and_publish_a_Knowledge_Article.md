@@ -1,8 +1,30 @@
----
-lab:
-    title: 'المعمل 3.1: إنشاء مقالة معرفية ونشرها في Dynamics 365 Customer Service'
-    module: 'الوحدة 3: التعرف على أساسيات Dynamics 365 Customer Service'
----
+<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
+    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
+  <thead>
+  <tr>
+  <th>lab</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div><table>
+  <thead>
+  <tr>
+  <th>title</th>
+  <th>module</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div>المعمل 3.1: إنشاء مقالة معرفية ونشرها في Dynamics 365 Customer Service</div></td>
+  <td><div>الوحدة 3: التعرف على أساسيات Dynamics 365 Customer Service</div></td>
+  </tr>
+  </tbody>
+</table>
+</div></td>
+  </tr>
+  </tbody>
+</table>
 
 الوحدة 3: التعرف على أساسيات Dynamics 365 Customer Service
 ========================
