@@ -1,4 +1,4 @@
-<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
+﻿<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
     <article class="markdown-body entry-content container-lg" itemprop="text"><table>
   <thead>
   <tr>
@@ -32,7 +32,7 @@
 
 أصبحت أجهزة IoT جزءًا أكبر من الحياة اليومية. 
 
-1. فغالبًا ما يكون لدى العملاء أصول مادية تتطلب العمل والصيانة. وغالبًا ما يتم تثبيت هذه الأصول مبدئيًا وعادةً ما يكون لها عقود صيانة وقائية مفتوحة، ونجد في المقابل Dynamics 365 Field Service والذي يتضمن وظيفة إدارة الأصول التي تعمل جنبًا إلى جنب مع وظيفة Connected Field Service 
+1. فغالبًا ما يكون لدى العملاء أصول مادية تتطلب العمل والصيانة.  إذا كان الأصل جهازًا متصلاً، فقد يتضمن مستشعرات IoT التي يمكنها توصيل المعلومات مرة أخرى.  وغالبًا ما يتم تثبيت الأصول مبدئيًا كجزء من أمر العمل.  بمجرد التثبيت، يمكن فتح عقود الصيانة الوقائية ضدهم لتوفير الصيانة المجدولة للحفاظ على عمل الأصل.  يتضمن Dynamics 365 Field Service وظيفة إدارة الأصول التي تعمل بالتزامن مع وظيفة Connected Field Service.    
 
 	- أنشئ أصل عميل
 
